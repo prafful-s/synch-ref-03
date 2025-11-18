@@ -1,4 +1,4 @@
-# AEM Reference Demo (for Edge Delivery Service experience)
+# AEM Reference Demo (for Edge Delivery Service experience) Demo Purpose
 **A customizable UI experience:**
 - Custom Themes (with and without code)
 - Dynamic Media Templates
